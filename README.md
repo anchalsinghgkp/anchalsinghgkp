@@ -104,7 +104,7 @@
   </a>
 </p>
 
-<br/>
+</br>
 
 <p align="center">
   <a href="https://github.com/anchalsinghgkp/github-readme-streak-stats">
